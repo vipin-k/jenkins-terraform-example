@@ -1,5 +1,3 @@
-namespace = "Dev"
+namespace = "QA"
 region    = "us-west-2"
-bucketname = "bucket-demo-tf-jenkins"
-
-
+bucketname = "bucket-demo-tf-jenkins-o1"
